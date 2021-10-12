@@ -1,0 +1,10 @@
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Enbasamento Para a Pratica\Calculos_Basicos\Calculos_Basicos\bin\Debug\Calculos_Basicos.exe.config
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Enbasamento Para a Pratica\Calculos_Basicos\Calculos_Basicos\bin\Debug\Calculos_Basicos.exe
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Enbasamento Para a Pratica\Calculos_Basicos\Calculos_Basicos\bin\Debug\Calculos_Basicos.pdb
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Enbasamento Para a Pratica\Calculos_Basicos\Calculos_Basicos\obj\Debug\Calculos_Basicos.csprojAssemblyReference.cache
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Enbasamento Para a Pratica\Calculos_Basicos\Calculos_Basicos\obj\Debug\Calculos_Basicos.Form1.resources
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Enbasamento Para a Pratica\Calculos_Basicos\Calculos_Basicos\obj\Debug\Calculos_Basicos.Properties.Resources.resources
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Enbasamento Para a Pratica\Calculos_Basicos\Calculos_Basicos\obj\Debug\Calculos_Basicos.csproj.GenerateResource.cache
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Enbasamento Para a Pratica\Calculos_Basicos\Calculos_Basicos\obj\Debug\Calculos_Basicos.csproj.CoreCompileInputs.cache
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Enbasamento Para a Pratica\Calculos_Basicos\Calculos_Basicos\obj\Debug\Calculos_Basicos.exe
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Enbasamento Para a Pratica\Calculos_Basicos\Calculos_Basicos\obj\Debug\Calculos_Basicos.pdb
